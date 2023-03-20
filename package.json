@@ -1,0 +1,23 @@
+{
+  "name": "node-es-openshift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surya-apty/node-es-openshift.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surya-apty/node-es-openshift/issues"
+  },
+  "homepage": "https://github.com/surya-apty/node-es-openshift#readme",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.6.0"
+  }
+}
